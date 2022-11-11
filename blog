@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Blog"</title>
+    </head>
+    <style>
+        h1 {
+            font-family:monospace;
+            text-align:center;
+            background-color:rgb(201, 157, 201);
+        }
+        #ud{
+            text-align:center;
+            font-family:cursive;
+            color:rgb(214, 134, 112);
+        }
+        #hk{
+            background-color:rgb(25, 194, 163);
+        }
+        #en{
+            background-color:rgb(211, 217, 126);
+        }
+        #pf{
+            background-color:rgb(230, 92, 133);
+        }
+        body{
+            background-color:rgb(235, 232, 235);
+        }
+        .date{
+            color:rgb(232, 34, 12);
+            font-family:monospace;
+        }
+        p{
+            font-style:italic;
+            line-height:23px;
+        }
+    </style>
+    <body>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/fields-of-grain.png" width ="200">
+        <h1>Danny's blog</h1>
+
+        <h3 id="ud">Life is a journey which never ends</h3>
+        <ul>
+            <li ><a href="#hk">Hikes</a></li>
+            <li><a href="#en">enjoy</a></li>
+            <li><a href="#pf"> peaceful</a></li>
+            
+        </ul>
+        
+        <h2 id ="hk">Hikes</h2>
+        <img src ="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/lake.png"width="100">
+        <h6 class="date">12/06/2022</h6>
+        
+        <p><strong><em>Belihuloya</em></strong> is a village in the Ratnapura District, Sabaragamuwa Province of Sri Lanka.[1] It is approximately 150 kilometres (93 mi) south-east of Colombo and is situated at an elevation of 616 metres (2,021 ft) above sea level. This hillside location is a climatically transitional area, linking both the dry and wet zones and the hill and low country. Belihuloya, is derived from the Belih Oya ("Oya" being the Sinhala word for river), which flows through the area.</p>
+    <a href="https://en.wikipedia.org/wiki/Belihuloya">more about bellihuloya </a>
+    <h2 id ="en">
+        Enjoy
+    </h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-with-palm-trees.png" width="100">
+    <h6 class="date">15/7/2022</h6>
+       <p>
+The name<strong><em>Hikkaduwa </em></strong>is thought to have been derived from the two words Sip Kaduwa, with Sip (සිප්) being the shorter version of Shilpaya which refers to knowledge in Sinhalese and Kaduwa(කඩුව) which means sword. It is believed therefore that the name Hikkaduwa means sword of knowledge. Alternatively it means coral or seashell jungle</p>
+
+<a href ="https://en.wikipedia.org/wiki/Hikkaduwa">more about hikkaduwa</a>
+
+<h2 id ="pf">Peacefull</h2>
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/retriever.png" width="100">
+    <h6 class="date">18/10/2022</h6>  
+    <p><strong><em>Viharamahadevi Park</em></strong> (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, Colombo, situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958.[1]
+
+During World War II it was occupied by the British Army with Australian 17th Brigade based at Victoria Park. After the war the park was restored and open to the public in 1951</p>
+<a href ="https://en.wikipedia.org/wiki/Viharamahadevi_Park">more about viharamahadevi park</a>
+    </body>
+</html>
